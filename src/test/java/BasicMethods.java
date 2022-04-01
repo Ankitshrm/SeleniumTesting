@@ -60,6 +60,7 @@ public class BasicMethods {
         System.out.println(tabNames);
 
 
+
         //Quiting Window
         driver.quit();
     }
